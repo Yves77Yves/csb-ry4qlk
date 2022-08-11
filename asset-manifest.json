@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://yves77yves.github.io/csb-ry4qlk/static/js/main.31247fcd.chunk.js",
+    "main.js.map": "https://yves77yves.github.io/csb-ry4qlk/static/js/main.31247fcd.chunk.js.map",
+    "runtime-main.js": "https://yves77yves.github.io/csb-ry4qlk/static/js/runtime-main.e8c10fb9.js",
+    "runtime-main.js.map": "https://yves77yves.github.io/csb-ry4qlk/static/js/runtime-main.e8c10fb9.js.map",
+    "static/js/2.79aacc08.chunk.js": "https://yves77yves.github.io/csb-ry4qlk/static/js/2.79aacc08.chunk.js",
+    "static/js/2.79aacc08.chunk.js.map": "https://yves77yves.github.io/csb-ry4qlk/static/js/2.79aacc08.chunk.js.map",
+    "index.html": "https://yves77yves.github.io/csb-ry4qlk/index.html",
+    "precache-manifest.934673735d54c1dbbc92c07d3dbe935d.js": "https://yves77yves.github.io/csb-ry4qlk/precache-manifest.934673735d54c1dbbc92c07d3dbe935d.js",
+    "service-worker.js": "https://yves77yves.github.io/csb-ry4qlk/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8c10fb9.js",
+    "static/js/2.79aacc08.chunk.js",
+    "static/js/main.31247fcd.chunk.js"
+  ]
+}
